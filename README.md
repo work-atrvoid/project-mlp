@@ -9,11 +9,9 @@
 
 ### Projects Included
 
-
-
 The following problems have been solved in this repository:
 
-1. **House Price Prediction**: Using simple and multiple linear regression.
+1. [**House Price Prediction**](src/regression/linear/house-price-regression.ipynb): Using simple and multiple linear regression.
 
 2. **China's GDP Prediction**: Utilizing non-linear regression (sigmoid function).
 
