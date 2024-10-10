@@ -13,28 +13,28 @@ The following problems have been solved in this repository:
 
 1. [**House Price Prediction**](src/regression/linear/house-price-regression.ipynb): Using simple and multiple linear regression.
 
-2. **China's GDP Prediction**: Utilizing non-linear regression (sigmoid function).
+2. [**China's GDP Prediction**](src/regression/none-linear/china-gdp-regression.ipynb): Utilizing non-linear regression (sigmoid function).
 
-3. **Fish Weight Prediction**: Implementing simple and multiple polynomial regression.
+3. [**Fish Weight Prediction**](src/regression/polynomial/fish-weight-regression.ipynb): Implementing simple and multiple polynomial regression.
 
-4. **Customer Churn Detection**: Applying decision trees.
+4. [**Customer Churn Detection**](src/classification/decision-tree/churn-detection-decision-tree.ipynb): Applying decision trees.
 
-5. **Heart Attack Probability Prediction**: Utilizing the k-nearest neighbors algorithm.
+5. [**Heart Attack Probability Prediction**](src/classification/k-nearest-neighbors/heartattack-prediction-knn.ipynb): Utilizing the k-nearest neighbors algorithm.
 
-6. **Wine Quality Prediction**: Using logistic regression.
+6. [**Wine Quality Prediction**](src/classification/logistic-regression/wine-quality-prediction-LR.ipynb): Using logistic regression.
 
-7. **Student Performance Prediction**: Applying the support vector machine algorithm.
+7. [**Student Performance Prediction**](src/classification/support-vector-machine/student-performnace-prediction-SVM.ipynb): Applying the support vector machine algorithm.
 
 8. **Customer Segmentation**: Utilizing three different algorithms:
    
-   - K-means
-   - DBSCAN
-   - Hierarchical/Agglomerative Clustering
+   - [K-means](src/clustering/customers-kmeans-clustering.ipynb)
+   - [DBSCAN](src/clustering/customers-dbscan-clustering.ipynb)
+   - [Hierarchical/Agglomerative Clustering](src/clustering/customers-hierarchical-clustering.ipynb)
 
 9. **Movie Recommendation System**: Implementing two different algorithms:
    
-   - Content-Based Filtering
-   - Collaborative User-Based Filtering
+   - [Content-Based Filtering](src/recommendation-system/contentbased-movie-recommendation.ipynb)
+   - [Collaborative User-Based Filtering](src/recommendation-system/contentbased-movie-recommendation.ipynb)
 
 ![Technologies Used](assets/technologies-used.png)
 
