@@ -7,9 +7,8 @@
 
 **Project MLP**, which stands for **Machine Learning Portfolio**, is a collection of mini machine learning projects designed to showcase my understanding of ML concepts. I created this repository to evaluate my skills in ML and my capability to solve real-world problems. Throughout this project, I gained valuable insights into plotting different types of data and applying various algorithms to address them.
 
-### Projects Included
 
-The following problems have been solved in this repository:
+<div align="center">### Projects Included</div>
 
 1. [**House Price Prediction**](src/regression/linear/house-price-regression.ipynb): Using simple and multiple linear regression.
 
@@ -60,15 +59,11 @@ Throughout this project, I have developed a deeper understanding of the followin
 - Sometimes, finding that there is no relationship between two parameters can be as insightful as discovering a relationship. For instance, in student performance prediction, understanding that there may not be a straightforward relationship between weekly study hours and better grades led me to consider the possibility of a hyperplane in a higher-dimensional space, which ultimately helped in solving the problem using the support vector machine algorithm.
 - Hands-on experience with multiple libraries and tools commonly used in the machine learning field.
 
-<div align="center">
-  
-  ### Future Directions
-  
-</div>
+<div align="center">### Future Directions</div>
 I plan to explore deep learning and additional classic ML algorithms. If I discover any new mini-projects that align with this portfolio, I will gladly include them!
 
-### Questions and Feedback
 
+<div align="center">### Questions and Feedback</div>
 If you have any questions or feedback regarding this project, please feel free to contact me. I welcome any thoughts or suggestions you may have!
 
 If you enjoyed my work or found this portfolio helpful, please consider giving it a star! Your support encourages me to keep improving and sharing my projects with the community. Thank you!
