@@ -7,6 +7,7 @@
 
 **Project MLP**, which stands for **Machine Learning Portfolio**, is a collection of mini machine learning projects designed to showcase my understanding of ML concepts. I created this repository to evaluate my skills in ML and my capability to solve real-world problems. Throughout this project, I gained valuable insights into plotting different types of data and applying various algorithms to address them.
 
+
 <div align="center"><h3>Projects Included</h3></div><hr>
 
 1. [**House Price Prediction**](src/regression/linear/house-price-regression.ipynb): Using simple and multiple linear regression.
@@ -35,7 +36,6 @@
    - [Collaborative User-Based Filtering](src/recommendation-system/contentbased-movie-recommendation.ipynb)
 
 ![Technologies Used](assets/technologies-used.png)
-
 - Python programming language
 - Jupyter Notebook
 - NumPy library for mathematical purposes, array/matrix manipulations, and more
@@ -47,8 +47,8 @@
 - Dtreeviz library for visualizing decision trees
 - SciPy library for optimization and dendrogram clustering
 
-![Leanrning Outcomes](assets/leanrning-outcomes.png)
 
+![Leanrning Outcomes](assets/leanrning-outcomes.png)
 - The application of various machine learning algorithms and their suitability for different types of problems.
 - Data preprocessing techniques and their impact on model performance, such as one-hot encoding, label encoding, train-test splitting, normalizing with different methods (e.g., standardization or min-max scaling), and more.
 - The importance of data visualization in understanding model outputs and improving insights.
@@ -58,6 +58,7 @@
 
 <div align="center"><h3>Future Directions</h3></div><hr>
 I plan to explore deep learning and additional classic ML algorithms. If I discover any new mini-projects that align with this portfolio, I will gladly include them!
+
 
 <div align="center"><h3>Questions and Feedback</h3></div><hr>
 If you have any questions or feedback regarding this project, please feel free to contact me. I welcome any thoughts or suggestions you may have!
