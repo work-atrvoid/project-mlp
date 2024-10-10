@@ -50,8 +50,6 @@
 
 ![Leanrning Outcomes](assets/leanrning-outcomes.png)
 
-Throughout this project, I have developed a deeper understanding of the following:
-
 - The application of various machine learning algorithms and their suitability for different types of problems.
 - Data preprocessing techniques and their impact on model performance, such as one-hot encoding, label encoding, train-test splitting, normalizing with different methods (e.g., standardization or min-max scaling), and more.
 - The importance of data visualization in understanding model outputs and improving insights.
