@@ -1,4 +1,4 @@
-<div align="center"><h1>Project MLP: Machine Learning Portfolio</h1></div><hr>
+<div align="center"><h1>Project MLP: Machine Learning Portfolio</h1></div>
 
 ![Project Overview](assets/project-overview.png)
 [![Python](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/)
