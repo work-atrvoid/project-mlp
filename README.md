@@ -1,39 +1,38 @@
-# Project MLP: Machine Learning Portfolio
+<div align="center"><h1>Project MLP: Machine Learning Portfolio</h1></div>
 
 ![Project Overview](assets/project-overview.png)
+[![Python](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
+[![GitHub stars](https://img.shields.io/github/stars/work-atrvoid/project-mlp)](https://github.com/work-atrvoid/project-mlp/stargazers)
 
 **Project MLP**, which stands for **Machine Learning Portfolio**, is a collection of mini machine learning projects designed to showcase my understanding of ML concepts. I created this repository to evaluate my skills in ML and my capability to solve real-world problems. Throughout this project, I gained valuable insights into plotting different types of data and applying various algorithms to address them.
 
-### Projects Included
+<div align="center"><h3>Projects Included</h3></div><hr>
 
+1. [**House Price Prediction**](src/regression/linear/house-price-regression.ipynb): Using simple and multiple linear regression.
 
+2. [**China's GDP Prediction**](src/regression/none-linear/china-gdp-regression.ipynb): Utilizing non-linear regression (sigmoid function).
 
-The following problems have been solved in this repository:
+3. [**Fish Weight Prediction**](src/regression/polynomial/fish-weight-regression.ipynb): Implementing simple and multiple polynomial regression.
 
-1. **House Price Prediction**: Using simple and multiple linear regression.
+4. [**Customer Churn Detection**](src/classification/decision-tree/churn-detection-decision-tree.ipynb): Applying decision trees.
 
-2. **China's GDP Prediction**: Utilizing non-linear regression (sigmoid function).
+5. [**Heart Attack Probability Prediction**](src/classification/k-nearest-neighbors/heartattack-prediction-knn.ipynb): Utilizing the k-nearest neighbors algorithm.
 
-3. **Fish Weight Prediction**: Implementing simple and multiple polynomial regression.
+6. [**Wine Quality Prediction**](src/classification/logistic-regression/wine-quality-prediction-LR.ipynb): Using logistic regression.
 
-4. **Customer Churn Detection**: Applying decision trees.
-
-5. **Heart Attack Probability Prediction**: Utilizing the k-nearest neighbors algorithm.
-
-6. **Wine Quality Prediction**: Using logistic regression.
-
-7. **Student Performance Prediction**: Applying the support vector machine algorithm.
+7. [**Student Performance Prediction**](src/classification/support-vector-machine/student-performnace-prediction-SVM.ipynb): Applying the support vector machine algorithm.
 
 8. **Customer Segmentation**: Utilizing three different algorithms:
    
-   - K-means
-   - DBSCAN
-   - Hierarchical/Agglomerative Clustering
+   - [K-means](src/clustering/customers-kmeans-clustering.ipynb)
+   - [DBSCAN](src/clustering/customers-dbscan-clustering.ipynb)
+   - [Hierarchical/Agglomerative Clustering](src/clustering/customers-hierarchical-clustering.ipynb)
 
 9. **Movie Recommendation System**: Implementing two different algorithms:
    
-   - Content-Based Filtering
-   - Collaborative User-Based Filtering
+   - [Content-Based Filtering](src/recommendation-system/contentbased-movie-recommendation.ipynb)
+   - [Collaborative User-Based Filtering](src/recommendation-system/contentbased-movie-recommendation.ipynb)
 
 ![Technologies Used](assets/technologies-used.png)
 
@@ -50,8 +49,6 @@ The following problems have been solved in this repository:
 
 ![Leanrning Outcomes](assets/leanrning-outcomes.png)
 
-Throughout this project, I have developed a deeper understanding of the following:
-
 - The application of various machine learning algorithms and their suitability for different types of problems.
 - Data preprocessing techniques and their impact on model performance, such as one-hot encoding, label encoding, train-test splitting, normalizing with different methods (e.g., standardization or min-max scaling), and more.
 - The importance of data visualization in understanding model outputs and improving insights.
@@ -59,12 +56,10 @@ Throughout this project, I have developed a deeper understanding of the followin
 - Sometimes, finding that there is no relationship between two parameters can be as insightful as discovering a relationship. For instance, in student performance prediction, understanding that there may not be a straightforward relationship between weekly study hours and better grades led me to consider the possibility of a hyperplane in a higher-dimensional space, which ultimately helped in solving the problem using the support vector machine algorithm.
 - Hands-on experience with multiple libraries and tools commonly used in the machine learning field.
 
-### Future Directions
-
+<div align="center"><h3>Future Directions</h3></div><hr>
 I plan to explore deep learning and additional classic ML algorithms. If I discover any new mini-projects that align with this portfolio, I will gladly include them!
 
-### Questions and Feedback
-
+<div align="center"><h3>Questions and Feedback</h3></div><hr>
 If you have any questions or feedback regarding this project, please feel free to contact me. I welcome any thoughts or suggestions you may have!
 
 If you enjoyed my work or found this portfolio helpful, please consider giving it a star! Your support encourages me to keep improving and sharing my projects with the community. Thank you!
