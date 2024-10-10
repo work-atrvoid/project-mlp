@@ -7,7 +7,6 @@
 
 **Project MLP**, which stands for **Machine Learning Portfolio**, is a collection of mini machine learning projects designed to showcase my understanding of ML concepts. I created this repository to evaluate my skills in ML and my capability to solve real-world problems. Throughout this project, I gained valuable insights into plotting different types of data and applying various algorithms to address them.
 
-
 <div align="center"><h3>Projects Included</h3></div><hr>
 
 1. [**House Price Prediction**](src/regression/linear/house-price-regression.ipynb): Using simple and multiple linear regression.
@@ -35,7 +34,40 @@
    - [Content-Based Filtering](src/recommendation-system/contentbased-movie-recommendation.ipynb)
    - [Collaborative User-Based Filtering](src/recommendation-system/contentbased-movie-recommendation.ipynb)
 
+
+
+<div align="center"><h3>How to Run This Project</h3></div><hr>
+
+<u>Before running this project on your local machine, I recommend installing Anaconda, which comes with many of the necessary tools pre-installed.</u>
+
+1. **Clone the repository**:
+   
+   ```bash
+   git clone https://github.com/work-atrvoid/project-mlp.git
+   ```
+
+2. **Navigate to the project folder**:
+   
+   ```bash
+   cd project-mlp
+   ```
+
+3. **Install dependencies**:
+   
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Open the Jupyter notebooks**:
+   
+   ```bash
+   jupyter notebook
+   ```
+
+    
+
 ![Technologies Used](assets/technologies-used.png)
+
 - Python programming language
 - Jupyter Notebook
 - NumPy library for mathematical purposes, array/matrix manipulations, and more
@@ -47,20 +79,24 @@
 - Dtreeviz library for visualizing decision trees
 - SciPy library for optimization and dendrogram clustering
 
-
 ![Leanrning Outcomes](assets/leanrning-outcomes.png)
+
 - The application of various machine learning algorithms and their suitability for different types of problems.
+
 - Data preprocessing techniques and their impact on model performance, such as one-hot encoding, label encoding, train-test splitting, normalizing with different methods (e.g., standardization or min-max scaling), and more.
+
 - The importance of data visualization in understanding model outputs and improving insights.
+
 - The need for careful analysis and consideration. For example, in GDP prediction, while a growth rate plot might suggest a polynomial relationship, it's important to recognize that moving from 0 to 0.9 is relatively easy, whereas moving from 0.9 to 1 is more challenging. Developing countries can progress more easily by following the paths of developed countries, while developed countries must innovate to achieve further growth, which led me to use a sigmoid non-linear function instead of a polynomial one.
-<div align="center"><img src="assets/gdp.png" alt="gdp" style="width: 75%;"/></div>
+  
+  <div align="center"><img src="assets/gdp.png" alt="gdp" style="width: 75%;"/></div>
 
 - Sometimes, finding that there is no relationship between two parameters can be as insightful as discovering a relationship. For instance, in student performance prediction, understanding that there may not be a straightforward relationship between weekly study hours and better grades led me to consider the possibility of a hyperplane in a higher-dimensional space, which ultimately helped in solving the problem using the support vector machine algorithm.
+
 - Hands-on experience with multiple libraries and tools commonly used in the machine learning field.
 
 <div align="center"><h3>Future Directions</h3></div><hr>
 I plan to explore deep learning and additional classic ML algorithms. If I discover any new mini-projects that align with this portfolio, I will gladly include them!
-
 
 <div align="center"><h3>Questions and Feedback</h3></div><hr>
 If you have any questions or feedback regarding this project, please feel free to contact me. I welcome any thoughts or suggestions you may have!
