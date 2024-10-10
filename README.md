@@ -53,6 +53,8 @@
 - Data preprocessing techniques and their impact on model performance, such as one-hot encoding, label encoding, train-test splitting, normalizing with different methods (e.g., standardization or min-max scaling), and more.
 - The importance of data visualization in understanding model outputs and improving insights.
 - The need for careful analysis and consideration. For example, in GDP prediction, while a growth rate plot might suggest a polynomial relationship, it's important to recognize that moving from 0 to 0.9 is relatively easy, whereas moving from 0.9 to 1 is more challenging. Developing countries can progress more easily by following the paths of developed countries, while developed countries must innovate to achieve further growth, which led me to use a sigmoid non-linear function instead of a polynomial one.
+<div align="center"><img src="assets/gdp.png" alt="gdp" style="width: 75%;"/></div>
+
 - Sometimes, finding that there is no relationship between two parameters can be as insightful as discovering a relationship. For instance, in student performance prediction, understanding that there may not be a straightforward relationship between weekly study hours and better grades led me to consider the possibility of a hyperplane in a higher-dimensional space, which ultimately helped in solving the problem using the support vector machine algorithm.
 - Hands-on experience with multiple libraries and tools commonly used in the machine learning field.
 
