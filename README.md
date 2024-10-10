@@ -9,6 +9,7 @@
 
 
 <div align="center"><h3>Projects Included</h3></div>
+---
 
 1. [**House Price Prediction**](src/regression/linear/house-price-regression.ipynb): Using simple and multiple linear regression.
 
@@ -60,10 +61,12 @@ Throughout this project, I have developed a deeper understanding of the followin
 - Hands-on experience with multiple libraries and tools commonly used in the machine learning field.
 
 <div align="center"><h3>Future Directions</h3></div>
+---
 I plan to explore deep learning and additional classic ML algorithms. If I discover any new mini-projects that align with this portfolio, I will gladly include them!
 
 
 <div align="center"><h3>Questions and Feedback</h3></div>
+---
 If you have any questions or feedback regarding this project, please feel free to contact me. I welcome any thoughts or suggestions you may have!
 
 If you enjoyed my work or found this portfolio helpful, please consider giving it a star! Your support encourages me to keep improving and sharing my projects with the community. Thank you!
