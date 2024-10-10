@@ -60,7 +60,7 @@ Throughout this project, I have developed a deeper understanding of the followin
 - Sometimes, finding that there is no relationship between two parameters can be as insightful as discovering a relationship. For instance, in student performance prediction, understanding that there may not be a straightforward relationship between weekly study hours and better grades led me to consider the possibility of a hyperplane in a higher-dimensional space, which ultimately helped in solving the problem using the support vector machine algorithm.
 - Hands-on experience with multiple libraries and tools commonly used in the machine learning field.
 
-<center><h3>Future Directions</h3></center>
+### Future Directions
 
 I plan to explore deep learning and additional classic ML algorithms. If I discover any new mini-projects that align with this portfolio, I will gladly include them!
 
