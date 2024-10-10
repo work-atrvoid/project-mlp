@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 [![GitHub stars](https://img.shields.io/github/stars/work-atrvoid/project-mlp)](https://github.com/work-atrvoid/project-mlp/stargazers)
-
+<hr>
 **Project MLP**, which stands for **Machine Learning Portfolio**, is a collection of mini machine learning projects designed to showcase my understanding of ML concepts. I created this repository to evaluate my skills in ML and my capability to solve real-world problems. Throughout this project, I gained valuable insights into plotting different types of data and applying various algorithms to address them.
 
 
@@ -36,6 +36,7 @@
    - [Collaborative User-Based Filtering](src/recommendation-system/contentbased-movie-recommendation.ipynb)
 
 ![Technologies Used](assets/technologies-used.png)
+<hr>
 
 - Python programming language
 - Jupyter Notebook
@@ -49,6 +50,7 @@
 - SciPy library for optimization and dendrogram clustering
 
 ![Leanrning Outcomes](assets/leanrning-outcomes.png)
+<hr>
 
 - The application of various machine learning algorithms and their suitability for different types of problems.
 - Data preprocessing techniques and their impact on model performance, such as one-hot encoding, label encoding, train-test splitting, normalizing with different methods (e.g., standardization or min-max scaling), and more.
